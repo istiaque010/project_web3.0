@@ -1,5 +1,5 @@
 # Krypt - Web 3.0 Blockchain Application
-![Krypt](https://photos.app.goo.gl/vtWCLPY5mPswpdYQ9)
+![Krypt](web3.png)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
